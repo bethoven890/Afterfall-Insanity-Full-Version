@@ -256,4 +256,4 @@ This repository serves as the official landing page for Afterfall: InSanity. The
 **Get the most recent version of Afterfall: InSanity today!**
 
 ---
-**Last updated:** 2026-09-19 05:28:31 UTC
+**Last updated:** 2026-09-19 10:04:54 UTC
